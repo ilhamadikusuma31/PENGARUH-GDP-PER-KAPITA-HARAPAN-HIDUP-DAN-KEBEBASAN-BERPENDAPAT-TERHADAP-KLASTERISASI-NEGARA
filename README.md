@@ -12,4 +12,4 @@ cara kerja dan memakai code:
 8. mengimpor data csv untuk menampilkan grafik
 9. code akan menampilkan grafik
 
-https://www.researchgate.net/publication/352475820_PENGARUH_GDP_PER_KAPITA_HARAPAN_HIDUP_DAN_KEBEBASAN_BERPENDAPAT_TERHADAP_KLASTERISASI_NEGARA
+
